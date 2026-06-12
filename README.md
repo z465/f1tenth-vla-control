@@ -32,12 +32,6 @@ This repository keeps the original functionality and adds the F1TENTH control-re
 
 Run `f1tenth_vlm_infer.py` with an image directory:
 
-```bash
-python <path-to-f1tenth_vlm_infer.py> \
-  --image_dir <path-to>/Qwen-VL-Series-Finetune/data/images \
-  --max_images 600
-```
-
 Example:
 
 ```bash
